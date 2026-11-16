@@ -1,0 +1,6 @@
+:HL["/talimpomarapongateste/_next/static/chunks/1tqa9-nx0_5x1.css","style"]
+:HL["/talimpomarapongateste/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/talimpomarapongateste/_next/static/media/29e2a75af8e45044-s.p.2kjei9psvcorz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/talimpomarapongateste/_next/static/media/90df65aa73cd68fd-s.p.02omj01dfd0zw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"fE8q5yxUM3tmYLd2o-WA5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
